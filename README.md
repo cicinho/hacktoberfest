@@ -66,7 +66,7 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
 
 ```markdown
-# Your Name
+### Your Name
 
 ### Location
 
